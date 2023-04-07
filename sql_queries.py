@@ -1,3 +1,4 @@
+DDL_QUERY = '''
 CREATE TABLE mytable(
    Game_id         INTEGER  NOT NULL PRIMARY KEY 
   ,Name            VARCHAR(132)
@@ -17,3 +18,4 @@ CREATE TABLE mytable(
   ,Developer       VARCHAR(80)
   ,Rating          VARCHAR(4)
 );
+'''
