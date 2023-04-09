@@ -1,0 +1,15 @@
+Grupo: proyecto
+Nombre de usuario: proyecto-python
+Password: Uuy45H8>%:"K,mc;
+url: https://311274711760.signin.aws.amazon.com/console
+id: 311274711760
+
+Access key: AKIAUQ6LLFLIO6VZDDE2
+Secret access key: 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
+
+RDS:
+Instance: Proyecto-Python-V
+User: postgres
+Password: 4Rldudra8lP
+db: proyecto
+host: proyecto-final-v.con6per9lkxv.us-east-1.rds.amazonaws.com
