@@ -1,9 +1,3 @@
-Grupo: proyecto
-Nombre de usuario: proyecto-python
-Password: Uuy45H8>%:"K,mc;
-url: https://311274711760.signin.aws.amazon.com/console
-id: 311274711760
-
 Access key: AKIAUQ6LLFLIO6VZDDE2
 Secret access key: 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
 
