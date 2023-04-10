@@ -7,3 +7,5 @@ User: postgres
 Password: 4Rldudra8lP
 db: proyecto
 host: proyecto-final-v.con6per9lkxv.us-east-1.rds.amazonaws.com
+
+Link Video Youtube: https://www.youtube.com/watch?v=OjGkFH5cV0s
